@@ -6,8 +6,8 @@ If you are using the general architecture for training multi-classification mode
 
 ## Avmpd
 
-This is a brief version of datasets to train the classification model in Avmpd. 
+This is a brief version of the datasets to train the classification model in Avmpd. 
 
 ## Avmpd+
 
-This is an extensive version of datasets to train the classification model in Avmpd. 
+This is an extensive version of the datasets to train the classification model in Avmpd. 
